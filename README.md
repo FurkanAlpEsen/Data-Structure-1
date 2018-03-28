@@ -1,0 +1,2 @@
+# VeriYapilari
+Otopark Ödevi1
